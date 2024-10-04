@@ -113,5 +113,5 @@ func studentAgeTwenty(students []Student) []Student {
 //a = a[:len(a)-1]
 
 func returnTwo() (int, string) {
-	return 28, "Голова"
+	return 28, "голова"
 }
