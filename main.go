@@ -47,5 +47,5 @@ func area(s Square) int {
 }
 
 func welcome(name string) string {
-	return fmt.Sprintf("Добро пожаловать, %s в клуб", name)
+	return fmt.Sprintf("Добра пожаловать, %s в клуб", name)
 }
